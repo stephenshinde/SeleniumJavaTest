@@ -13,7 +13,7 @@ This project is developed with Selenium Java Page object model for Web applicati
 1. Download and Install Git from https://git-scm.com/downloads,<br />
 2. Navigate to computer drive<br />
 3. Open command prompt<br />
-3. Enter command **git clone **<br />
+3. Enter command **git clone https://github.com/stephenshinde/SeleniumJavaTest.git**<br />
 
 ## Install Maven build tool
 1. Download Apache Maven<br />
